@@ -1,6 +1,16 @@
 tmux
 ====
 
+<!-- vim-markdown-toc GFM -->
+
+* [Working with panes](#working-with-panes)
+    * [Break out a pane into its own window](#break-out-a-pane-into-its-own-window)
+    * [Join current pane to a different window](#join-current-pane-to-a-different-window)
+    * [Resize current pane](#resize-current-pane)
+* [Working with windows](#working-with-windows)
+    * [Move a window around](#move-a-window-around)
+
+<!-- vim-markdown-toc -->
 Working with panes
 ------------------
 
